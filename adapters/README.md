@@ -1,0 +1,1 @@
+// This directory will contain various adapter modules for integrating with different AI services.
